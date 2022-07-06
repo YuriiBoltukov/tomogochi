@@ -53,3 +53,10 @@ progress {
   background-repeat: no-repeat;
   background-size: contain;
 }
+
+.section {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-flow: wrap;
+}
